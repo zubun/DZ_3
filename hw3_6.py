@@ -30,13 +30,14 @@ def int_func_line(arg_line):
     for line in range(len(arg_line_2)):
         word = arg_line_2[line]
         new_line.append(int_func(word))
-    return new_line
+    end_line = ' '.join(new_line)
+    return end_line
 
 
 words = input("Введите слово:")
 lines = input("Введите строку:")
 print(int_func(words))
-print(int_func(lines))
+print(int_func_line(lines))
 
 
 
