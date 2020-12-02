@@ -1,3 +1,4 @@
+# _
 # def sum_sum():
 #     line = input("введите строку: ")
 #     number_str = []
