@@ -32,7 +32,7 @@ def int_func_line(arg_line):
         new_line.append(int_func(word))
     end_line = ' '.join(new_line)
     return end_line
-
+#
 
 words = input("Введите слово:")
 lines = input("Введите строку:")
