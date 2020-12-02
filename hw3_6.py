@@ -6,7 +6,6 @@
 #     print(ord(b))
 # print(ord("adc"))
 
-
 '''Функция возвращающая первую заглавную букву в слове на латинице'''
 def int_func(arg):
     list_1 = list(arg)

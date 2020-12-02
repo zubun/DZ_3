@@ -1,4 +1,3 @@
-
 def personal_fail( name, surname, birth_date, city, mail, telephone):
     list = (f" Имя - {name}, Фамилия - {surname}, Дата рождения - {birth_date}, Город проживания - {city}, Адресс электронной почты - {mail}, Телефон - {telephone}")
     return list
