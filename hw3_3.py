@@ -1,4 +1,4 @@
-# _
+
 def my_func (arg_1, arg_2, arg_3):
     '''adding two maximum numbers - сложение двух максимальных чисел'''
     list_1 = [arg_1, arg_2, arg_3]
